@@ -1,0 +1,22 @@
+.rightside__container{
+    width: 80%;
+    height: 88vh;
+}
+
+.horizontal__line{
+    border-bottom: 10px solid #85F4FF;
+    width: 70%;
+    border-radius: 50px;
+    position: absolute;
+    left: 20%;
+    top: 55%;
+}
+
+.vertical__line{
+    border-left: 10px solid #85F4FF;
+  height: 70%;
+  border-radius: 50px;
+  position: absolute;
+  left: 75%;
+  top: 20%;
+}

@@ -1,0 +1,41 @@
+.leftside__container{
+    width: 20%;
+    height: 88.5vh;
+}
+
+.icons{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    position: relative;
+    left:38px;
+    top:230px;
+    row-gap: 25px;
+}
+
+.media__icon{
+  color: white;
+}
+
+.media__icon:hover{
+  color: #85F4FF;
+  cursor: pointer;
+}
+
+.vertical__line1{
+  border-left: 6px solid #85F4FF;
+  height: 150px;
+  border-radius: 50px;
+  position: absolute;
+  left: 12.25%;
+  top: 20%;
+}
+
+.vertical__line2{
+  border-left: 6px solid #85F4FF;
+  height: 150px;
+  border-radius: 50px;
+  position: absolute;
+  left: 12.25%;
+  top: 73%;
+}
